@@ -43,10 +43,8 @@ while n.upper() != "Q":
                 ARCA (A)
                 Modifieds (N)
                 F1 (F)
-                Weathertech (TU)
                 Pinty's (T)
-                Formula E (FE)
-                V8 Supercars (V8)''')
+                Formula E (FE)''')
         series = input("Choose a key: ")
         
         try:
